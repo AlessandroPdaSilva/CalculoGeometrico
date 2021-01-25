@@ -1,5 +1,5 @@
 # Calculo Geométrico
-Projeto simples feito em Java , que calcula o perimetro e a area de um quadrado ou triangulo.  
+Projeto simples feito em Java , que calcula o perimetro e a área de um quadrado ou triângulo.  
 Ao abrir o usuario tem a opção de escolher se deseja fazer o calculo ou encerrar o progama.  
 
 <br>
